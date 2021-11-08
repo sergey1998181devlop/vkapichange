@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="57e2201a-6889-46f0-be71-7d4884a328bc" name="vkapichange">
+        <fileTransfer rootFolder="/home/t/t977320g/vkapichange.ru/public_html" accessType="SFTP" host="87.236.16.8" port="22" sshConfigId="3317c71c-1249-493b-aea0-a65bee24689a" sshConfig="t977320g_sergey1998181@87.236.16.8:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
